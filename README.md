@@ -27,5 +27,3 @@ pip install -r requirements.txt
 4.get your API Keys from `https://platform.openai.com/account/api-keys`, and set `openai.api_key` in code.
 
  
-
-5. Simply Run
