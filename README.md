@@ -1,4 +1,4 @@
-# GPT3.5 Turbo Chatbot 
+# GPT3.5 Turbo Chatbot for Twilio
 
 Python chatbot implemented with official OpenAI API using model `gpt-3.5-turbo`. ChatGPT is powered by `gpt-3.5-turbo`, OpenAI’s most advanced language model.
 
